@@ -1,4 +1,4 @@
-20S, NoCal, but no score
+20S, NoCal, Score ~ 155M
 
 grid = [['p', 'd', 's', 'f', 'a'],
         ['e', 'a', 'i', 'l', 'k'],
@@ -7,9 +7,17 @@ grid = [['p', 'd', 's', 'f', 'a'],
         ['u', 'g', 'w', 'j', 'e']]
 
 
-Decent score:
+Decent score: ~181M
 grid = [['b', 'c', 's', 'm', 'a'],
         ['s', 'a', 'i', 'l', 'p'],
         ['d', 'n', 'o', 'f', 'h'],
         ['t', 'e', 'r', 'y', 'x'],
         ['u', 'g', 'k', 'j', 'w']]
+
+
+20S, NoCal, ~164M
+grid = [['p', 'd', 's', 'm', 'a'],
+        ['e', 'a', 'i', 'l', 'k'],
+        ['a', 'n', 'o', 'r', 'a'],
+        ['t', 'e', 'e', 'y', 's'],
+        ['u', 'g', 'w', 'm', 'e']]
